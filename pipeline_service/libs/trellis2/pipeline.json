@@ -81,7 +81,7 @@
         "image_cond_model": {
             "name": "DinoV3FeatureExtractor",
             "args": {
-                "model_name": "michealthegandalf11/dinov3-vitl16-pretrain-lvd1689m"
+                "model_name": "gray-apple/dino3"
             }
         },
         "rembg_model": {
