@@ -1,0 +1,5 @@
+{
+    "base": {
+        "positive": "Show the object exactly as in the source image: keep the same position, pose, and viewing angle. Do not rotate, straighten, or change the object's orientation. Make this view a clean, texture-friendly reference: flat diffuse lighting only (no reflections, no specular highlights, no bright spots, no glow), uniform shading with no baked-in shadows, and clear glass or metal without dark speckles. Turn the background into a flat, neutral solid color contrasting with the object. Delete all background details and watermarks. Preserve the object’s true colors but slightly sharpen fine details."
+    }
+}
